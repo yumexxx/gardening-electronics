@@ -4,7 +4,8 @@ Steps to connect the Sensirion I2C SCD41 Temperature & Humidity sensor using Ard
 # Software Setup
 1. Download Arduino IDE here 
 (under Downloads -> Download options -> select operating system)
-Follow download prompts for IDE until a window similar to the one on the right opens 
+Follow download prompts for IDE until a window similar to the one below opens
+https://user-images.githubusercontent.com/95435534/164768973-afcd56a4-de3f-4a5a-8b17-330372a2d3c0.png 
 2. Download the Sensirion Library
 (under Code -> Download ZIP)
 Move the downloaded ZIP folder to an accessible location (i.e. Desktop)
