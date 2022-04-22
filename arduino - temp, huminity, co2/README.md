@@ -12,23 +12,24 @@ Move the downloaded ZIP folder to an accessible location (i.e. Desktop)
 Import the Sensirion Library
 Open Arduino IDE
 Navigate to Sketch - > Include Library -> Add .ZIP Library… 
+![alt text](https://user-images.githubusercontent.com/95435534/164768979-5aa19c11-6bc0-4fcc-9417-2b60bff3951d.png)
 Select the ZIP folder from the saved location in step 2a
 Once you have uploaded the folder, navigate to File -> Examples and verify that Sensirion examples are displayed (at the bottom of the list)
-
+![alt text](https://user-images.githubusercontent.com/95435534/164768997-1766068e-51d0-45c9-969f-84d5f52bf27b.png)
 
 # Physical Setup
 Setup Grove - CO2 & Temperature & Humanity Sensor (SCD41)
 1. Unbox R2040
-
+![alt text](https://user-images.githubusercontent.com/95435534/164769009-9ea1b07d-1681-41ad-b46d-0e992fb58e65.png)
 
 2. If Using Grove Shield:
 Clip or bend reset pins (RST) on either side 
-
+![alt text](https://user-images.githubusercontent.com/95435534/164769021-02942ce5-efd0-4e0e-b4b7-8fbf524231cd.png)
 
 Line up pins with labels on shield
-
+![alt text](https://user-images.githubusercontent.com/95435534/164769024-e20d591f-ef97-43ae-a3cb-08047cea3fa1.png)
 Snap pins into place
-
+![alt text](https://user-images.githubusercontent.com/95435534/164769031-e24ae10d-19b1-4ba1-8b1f-a5929fa2ee62.png)
 
 3. Remove the SCD41 sensor from its packaging
 
