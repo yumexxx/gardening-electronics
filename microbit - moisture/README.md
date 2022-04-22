@@ -1,4 +1,8 @@
 # gardening-electronics
-Here we document how to set up electronics for gardening.
-top layer
-# test test test
+
+## Homemade Moisture Sensor
+
+### Materials
+- [] (1) micro:bit
+- [] (2) paper clips OR nails
+- [] (2) alligator/croc clips
