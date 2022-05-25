@@ -1,3 +1,11 @@
+<!-- to do:
+	- consider reformatting so examples aren't mixed in w/ directions, is current format too confusing?
+	- add pics for better engagement
+	- add code examples
+	- is it ok that this is dually a guide and documentation of example? I think that kids can be creative/have freedom with this project and I don't want to limit them with just our example
+-->
+
+
 # Water Level Sensor :droplet:
 **Goal:** Let's use micro:bit's built in **accelerometer** to monitor the amount of water in a hydroponics system!
 
