@@ -67,7 +67,7 @@ Play around with the accelerometer blocks (including tilt!) and simulator in Mak
 **It is important to start thinking about how your program will connect the physical and digital worlds to ultimately monitor water level before starting the physical build, in case any adjustments to your physical design are needed based on what you can do with MakeCode**
 
 	Example:
-	- **code to be inserted on 5/25**
+	![micro:bit water level sensor code]\(https://github.com/yumexxx/gardening-electronics/blob/main/water%20level%20sensor/microbit%20code%20(buttons%20for%20graph%20and%20number).png)
 
 ### Measure & Mark
 **Plan your dimensions and measure & mark materials**
