@@ -30,7 +30,10 @@ The guide below is simply an example -- please create your device as you wish!
  ## A few things to think about before getting started...
  - where will this sensor & apparatus fit in with your current physcial set-up?
  - what materials do you have laying around that you could use to build a stable & durable structure for the sensor?
- - what measurements & markings can you do before starting to build to make sure the apparatus fits together snugly, and within your available space? 
+ - what measurements & markings can you do before starting to build to make sure the apparatus fits together snugly, and within your available space?
+ - **code:**
+ 	- how can you translate acceleration & tilt readings from the accelerometer to detect changes in the water level?
+ 	- how can you use variables, along with the built in hardware features of the micro:bit (LED display, buttons, touch sensors), to both easily write code and create a smooth user experience?
  ## Let's make it! :triangular_ruler:
 
 
