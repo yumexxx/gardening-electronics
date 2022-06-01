@@ -7,31 +7,25 @@
 
 *working on updating original page to be shorter, on this page*
 # Water Level Sensor :droplet:
-**Goal:** Let's use micro:bit's built in **accelerometer** to monitor the amount of water in a hydroponics system!
+**Goal:** Let's use micro:bit's built in **accelerometer** to monitor how much water is currently in our hydroponics system!
 
 <!-- insert diagram showing accelerometer on micro:bit -->
 
-You have **lots of freedom** to construct your apparatus and design your code as you wish, keeping in mind the goal to detect amount of water in your system. Feel free to follow the example below, improve upon it, and/or create your own design!
+The guide below is simply an example -- please create your device as you wish!
 
 ![GIF of water level sensor rising with water](https://github.com/yumexxx/gardening-electronics/blob/main/water%20level%20sensor/water%20level%20rising.GIF.gif)
 
 ### Materials
 #### Electronics :battery:
 - [ ] (1) micro:bit (with USB cord)
-- [ ] (1) battery pack (for AA batteries) with connector
+- [ ] (1) AA battery pack with connector
 - [ ] (2) AA batteries
 #### Craft Materials (see sub-bullets for example choices!) :art:
-- [ ] a base & frame for micro:bit and physical water sensor
-	- (2) 1/2"-thick, 1 ft. long wooden rods (we cut these from one longer rod)
-	- (1) 1" thick long wooden block
-- [ ] fasteners/something to connect parts considering desired movement (stability, rotation, etc.)
-	- (2) long wood screws
-	- (2) thin wooden skewers
-- [ ] something to sense movement of water
-	- (1) block of styrofoam (look around for packages with this!)
-- [ ] something to hold the micro:bit, safe from water
-	- scrap cardboard
-	- tape
+- [ ] a base & frame (i.e. long wooden rods & block)
+- [ ] (2) wooden skewers
+- [ ] fasteners/connectors (i.e. wood screws to build base/frame)
+- [ ] small block of styrofoam (check out packaging materials for something that floats!)
+- [ ] scrap cardboard and tape (to hold micro:bit safe from water)
 
 ### Tools :toolbox:
 - [ ] MakeCode for micro:bit (online block/Python coding software)
