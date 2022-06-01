@@ -143,8 +143,7 @@ _...over time, observe_
 Based on where your interests lie, feel free to let this sensor run on its own and interact how you've designed, observing occasionally for any desired adjustments, or try out some of the extensions on this project below.
 
 
-### Possible Extensions :)
-- connect this system to an automatic pump (see micro:bit soil moisture tutorial **to be updated soon** with pump guide) to automatically pump water into the system as needed (you determine when that is based on the data you get!)
-- log water level data over time to track the well-being of your hydroponics system, and consider track the level for different plants/set-ups to learn how water is consumed at different rates based on different plant configurations
-- (if micro:bit V2 is available) use two micro:bits and the radio feature to send data from one micro:bit (the sensor, attached to the cardboard) to a second micro:bit (the receiver & displayer, to show the water level as a number, graph, etc.)
-- so much more -- play around and have fun!
+# Possible Extensions :)
+- connect this system to an automatic pump to water system (see micro:bit soil moisture tutorial **to be updated soon** with pump guide)
+- log water level data over time to track the well-being of your hydroponics system (especially as you make changes to the set-up)
+- (if micro:bit V2 is available) use two micro:bits to transmit and display data (one as a sensor and one as a receiver/displayer)
