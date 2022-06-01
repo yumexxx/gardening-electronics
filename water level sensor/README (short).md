@@ -21,7 +21,7 @@ The guide below is simply an example -- please create your device as you wish!
 ### Materials
  | Electronics :battery: | Tools we used! :toolbox: |
  | --- | ----------- |
- | - :slightly_smiling_face: (1) micro:bit (with USB cord) <br> - :electric_plug: (1) AA battery pack with connector <br> - :battery: (2) AA batteries | - :computer: MakeCode for micro:bit <br> - :screwdriver: drill (Phillips & woodboring bits for wood screws and holes) <br> - :carpentry_saw: saw <br> - :clamp: clamps <br> - :clamp: clamps <br> - :scissors: box cutter / scissors <br> - :fountain_pen: marker <br> - :straight_ruler: ruler <br> |
+ | - :slightly_smiling_face: (1) micro:bit (with USB cord) <br> - :electric_plug: (1) AA battery pack with connector <br> - :battery: (2) AA batteries | - :computer: MakeCode for micro:bit <br> - :screwdriver: drill (Phillips & woodboring bits for wood screws and holes) <br> - :carpentry_saw: saw <br> - :clamp: clamps <br> - :scissors: box cutter / scissors <br> - :fountain_pen: marker <br> - :straight_ruler: ruler <br> |
 
  | Craft Materials :art: |
  | -------------- |
@@ -72,6 +72,7 @@ The guide below is simply an example -- please create your device as you wish!
 - **measuring & marking:**
 	- how tall and wide is your hydroponics system? how do you want your water level sensor positioned relative to the system (i.e. how far should the micro:bit be above to detect significant water level changes?)
 	- how wide do you want your base to be to ensure a space-efficient & stable structure?
+
 **Code :computer:**
 - play around with the accelerometer blocks (including tilt!) and simulator in MakeCode to see how accelerometer readings (based on changing velocity/position) can be translated into a user-friendly output showing 'water level.'
 - consider using variables to save different readings
@@ -99,23 +100,22 @@ The guide below is simply an example -- please create your device as you wish!
 
 ### Apparatus
 Example:
-	- the black bin pictured above is 10 inches wide and 8 inches tall
-		- we wanted the micro:bit 6 inches above the top of the black container when the micro:bit is flat (parallel to the water surface), making the length between the micro:bit and styrofoam about 7 inches, so that the micro:bit and cardboard it's attached to have enough space to rotate down to be completely vertical (if the water level is extremely low)
-	- we made our base 8 inches wide (slightly smaller than the width of the container), which seemed wide enough for stability, but did not take up much extra space outside of the system
-	- we measured and marked:
-		- desired length of wooden base as 8" (original block was longer and took up more space than desired)
-		- location on base to perpendicularly attach wooden rods (rods 4 inches apart, each two inches from the center of the base and edge on either side), marked location where center of circular cross section of rod meets the base to drill hole & screw later on (on **both** the top and bottom of the block for later attachments)
-		- height along rods to drill holes to put free-spinning skewer through as 10" from bottom end at the base and in the center of the rod's width (so micro:bit can tilt based on the height of the water)
-		- size of cardboard to house micro:bit (3.5" wide to fit within the wooden rods, and 5" long to allow skewer & styrofoam flexible range of motion for a wide range of possible water heights)
-		- area on cardboard to later cut out an indent for the micro:bit to rest in (and get taped in for extra security!)
-		- point near long end of cardboard to later stick skewer for styrofoam through
-		- length of sides of the styrofoam block (1.5" each side), so the block would be large enough to reliably float at the water's surface over time, but small enough to take up little space in the water of the hydroponics system, and fit through one of the plant-cup holes (not pictured, about the size of the top of the red cup) in the bin lid so the block could rise with the water as needed, and be easily removed for repair & maintenance of the water level sensor
+- the black bin pictured above is 10 inches wide and 8 inches tall
+	- we wanted the micro:bit 6 inches above the top of the black container when the micro:bit is flat (parallel to the water surface), making the length between the micro:bit and styrofoam about 7 inches, so that the micro:bit and cardboard it's attached to have enough space to rotate down to be completely vertical (if the water level is extremely low)
+- we made our base 8 inches wide (slightly smaller than the width of the container), which seemed wide enough for stability, but did not take up much extra space outside of the system
+- we measured and marked:
+	- desired length of wooden base as 8" (original block was longer and took up more space than desired)
+	- location on base to perpendicularly attach wooden rods (rods 4 inches apart, each two inches from the center of the base and edge on either side), marked location where center of circular cross section of rod meets the base to drill hole & screw later on (on **both** the top and bottom of the block for later attachments)
+	- height along rods to drill holes to put free-spinning skewer through as 10" from bottom end at the base and in the center of the rod's width (so micro:bit can tilt based on the height of the water)
+	- size of cardboard to house micro:bit (3.5" wide to fit within the wooden rods, and 5" long to allow skewer & styrofoam flexible range of motion for a wide range of possible water heights)
+	- area on cardboard to later cut out an indent for the micro:bit to rest in (and get taped in for extra security!)
+	- point near long end of cardboard to later stick skewer for styrofoam through
+	- length of sides of the styrofoam block (1.5" each side), so the block would be large enough to reliably float at the water's surface over time, but small enough to take up little space in the water of the hydroponics system, and fit through one of the plant-cup holes (not pictured, about the size of the top of the red cup) in the bin lid so the block could rise with the water as needed, and be easily removed for repair & maintenance of the water level sensor
 
 ## Let's make it! :triangular_ruler:
 ### Measure & Mark :straight_ruler:
 ### Let's Build! :screwdriver:
-1. Cut wooden parts with saw to measured marks (base, two rods).
-- **make sure to secure wood safely with clamps, and as for help if needed!**
+1. Cut wooden parts with saw to measured marks (base, two rods). (**make sure to secure wood safely with clamps, and as for help if needed!**)
 2. To drill the holes for the skewer through each rod, one at a time, secure both ends of a rod to a clean & sturdy woodworking surface with clamps, making sure to have either a gap under the area where the hole will be drilled, or a scrapable & thick wooden surface underneath. Using a hole-boring bit, drill the hold in the marked location.
 3. Still using the hole-boring bit, face the designated bottom of the base upwards, and on each of the two marked locations for the rods, drill an indent halfway through the thickness of the base (to prepare the area to drill the screws in)
 4. Switch. the drill bit to a Phillips bit. To attach each of the rods to the base, ask a friend to help hold/secure the rod in its designated location against the base, making sure that the pre-drilled holes for the skewer near the top ends of each rod are running along the length of the base (don't fret, the rods can be twisted a little for fine adjustments once they're screwed into the base).
