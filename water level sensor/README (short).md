@@ -19,6 +19,8 @@ The guide below is simply an example -- please create your device as you wish!
 ![GIF of water level sensor rising with water](https://github.com/yumexxx/gardening-electronics/blob/main/water%20level%20sensor/water%20level%20rising.GIF.gif)
 
 ### Materials
+<html>
+
 <table border="0">
  <tr>
     <td><b style="font-size:30px">Electronics :battery:</b></td>
@@ -48,6 +50,8 @@ The guide below is simply an example -- please create your device as you wish!
   <!-- do I need to include explanations for certain tools? It lengthens the tutorial, and I'm not sure if its net helpful to the students & their creativity... --></td>
  </tr>
 </table>
+
+</html>
 
 #### Craft Materials :art:
 - [ ] :wood: a base & frame (i.e. 2 long wooden rods & 1 block)
