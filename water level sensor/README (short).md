@@ -34,7 +34,8 @@ The guide below is simply an example -- please create your device as you wish!
  - **code:**
  	- how can you translate acceleration & tilt readings from the accelerometer to detect changes in the water level?
  	- how can you use variables, along with the built in hardware features of the micro:bit (LED display, buttons, touch sensors), to both easily write code and create a smooth user experience?
- ## Let's make it! :triangular_ruler:
+
+## Let's make it! :triangular_ruler:
 
 
 <!-- the checkboxes are not working right now but I'll try to fix it later
