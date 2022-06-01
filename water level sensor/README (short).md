@@ -5,7 +5,7 @@
 	- is it ok that this is dually a guide and documentation of example? I think that kids can be creative/have freedom with this project and I don't want to limit them with just our example
 -->
 
-
+*working on updating original page to be shorter, on this page*
 # Water Level Sensor :droplet:
 **Goal:** Let's use micro:bit's built in **accelerometer** to monitor the amount of water in a hydroponics system!
 
