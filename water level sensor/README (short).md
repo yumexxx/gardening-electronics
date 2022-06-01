@@ -19,9 +19,11 @@ The guide below is simply an example -- please create your device as you wish!
 ![GIF of water level sensor rising with water](https://github.com/yumexxx/gardening-electronics/blob/main/water%20level%20sensor/water%20level%20rising.GIF.gif)
 
 ### Materials
+
 <html>
 
 <table border="0">
+
  <tr>
     <td><b style="font-size:30px">Electronics :battery:</b></td>
     <td><b style="font-size:30px">Tools we used! :toolbox:</b></td>
@@ -34,7 +36,7 @@ The guide below is simply an example -- please create your device as you wish!
   <input type="checkbox" id="AA" name="AA" value="AA">
   <label for="AA"> :battery: (2) AA batteries</label><br></td>
     <td><input type="checkbox" id="makecode" name="makecode" value="makecode">
-  <label for="makecode"> MakeCode for micro:bit</label><br>
+  <label for="makecode"> :computer: MakeCode for micro:bit</label><br>
   <input type="checkbox" id="drill" name="drill" value="drill">
   <label for="drill"> :screwdriver: drill (Phillips & woodboring bits for wood screws and holes)</label><br>
   <input type="checkbox" id="saw" name="saw" value="saw">
@@ -49,6 +51,7 @@ The guide below is simply an example -- please create your device as you wish!
   <label for="ruler"> :straight_ruler: ruler</label><br>
   <!-- do I need to include explanations for certain tools? It lengthens the tutorial, and I'm not sure if its net helpful to the students & their creativity... --></td>
  </tr>
+ 
 </table>
 
 </html>
