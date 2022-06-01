@@ -21,7 +21,7 @@ The guide below is simply an example -- please create your device as you wish!
 ### Materials
  | Electronics :battery: | Tools we used! :toolbox: |
  | --- | ----------- |
- | - :slightly_smiling_face: (1) micro:bit (with USB cord) <br> - :electric_plug: (1) AA battery pack with connector <br> - :battery: (2) AA batteries | :computer: MakeCode for micro:bit <br> - :screwdriver: drill (Phillips & woodboring bits for wood screws and holes) <br> - :carpentry_saw: saw <br> - :clamp: clamps <br> - :clamp: clamps <br> - :scissors: box cutter / scissors <br> - :fountain_pen: marker <br> - :straight_ruler: ruler <br> |
+ | - :slightly_smiling_face: (1) micro:bit (with USB cord) <br> - :electric_plug: (1) AA battery pack with connector <br> - :battery: (2) AA batteries | - :computer: MakeCode for micro:bit <br> - :screwdriver: drill (Phillips & woodboring bits for wood screws and holes) <br> - :carpentry_saw: saw <br> - :clamp: clamps <br> - :clamp: clamps <br> - :scissors: box cutter / scissors <br> - :fountain_pen: marker <br> - :straight_ruler: ruler <br> |
 
  | Craft Materials :art: |
  | -------------- |
