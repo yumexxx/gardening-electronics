@@ -27,7 +27,7 @@ The guide below is simply an example -- please create your device as you wish!
  | -------------- |
  | - :wood: a base & frame (i.e. 2 long wooden rods & 1 block) <br> - :chopsticks: (2) wooden skewers/chopsticks <!-- or other thin, sturdy material (? or is this implied and students will adapt intuitively?) --> <br> - :nut_and_bolt: fasteners/connectors (i.e. wood screws to build base/frame) <br> - :white_circle: small block of styrofoam (check out packaging materials for something that floats!) <br> - 📦 scrap cardboard and tape (to hold micro:bit safe from water) |
 
- ## A few things to think about before getting started...
+ ## A few things to think about before getting started...:pencil:
  - where will this sensor & apparatus fit in with your current physcial set-up?
  - what materials do you have laying around that you could use to build a stable & durable structure for the sensor?
  - what measurements & markings can you do before starting to build to make sure the apparatus fits together snugly, and within your available space?
@@ -36,7 +36,48 @@ The guide below is simply an example -- please create your device as you wish!
  	- how can you use variables, along with the built in hardware features of the micro:bit (LED display, buttons, touch sensors), to both easily write code and create a smooth user experience?
 
 ## Let's make it! :triangular_ruler:
+1. Measure, mark, and cut any scrap materials to desired sizes (i.e. wood, cardboard). Make sure to clamp/secure materials down and ask others for help to ensure everybody's safety.
+2. Construct your frame & base:
+- Drill skewer holes into rods
+- Screw rods into base
+- Run skewer through rod holes
+3. Attach micro:bit to frame:
+- cut out indent in cardboard to securely hold micro:bit
+- tape microbit (loosely so can remove to download new code) onto cardboard
+- tape cardboard (with micro:bit) to free-spinning skewer between vertical rods
+<!-- should I include thing to watch out for like having carboard long enough to let water level go down but not too long to touch water, or let them learn that themselves? for now I'll let them learn it by experience -->
+4. Let's make it float!
+- poke the second skewer through end of carboard near water
+- stick styrofoam on end of skewer to let float on surface of water
+- adjust height of skewer/size of styrofoam as needed to accomodate changing water levels
 
+## Let's code it! :computer:
+**Example Code:**
+	![micro:bit water level sensor code](https://github.com/yumexxx/gardening-electronics/blob/main/water%20level%20sensor/microbit%20code%20w%20buttons%20for%20graph%20and%20number.png)
+
+### Test and prototype!
+Run the code on your micro:bit to see how your program works along with your physical structure.
+**Do not worry if your plan doesn't function as you expected right away, it is important to embrace the testing & prototyping process.**
+_Right now, see..._
+- how does your device 'react' when you manually change the water level (try pouring in more water to a small cup or bowl)?
+- does the micro:bit display data as you expected?
+- how can you modify your code to conserve the micro:bit's energy? 
+_...over time, observe_
+- how does your structure hold up in the environment? does it fit into the workflow of your garden?
+- how reliable is the micro:bit water level display?
+- can you access the data/display easily and quickly? are you provided too little, too much, or just enough data?
+
+#### Nice job! You did it :). As you incorporate a water level sensor into your garden, you will see over time what features work, and what features can be improved to fit in with the garden as it evolves.
+Based on where your interests lie, feel free to let this sensor run on its own and interact how you've designed, observing occasionally for any desired adjustments, or try out some of the extensions on this project below.
+
+
+# Possible Extensions :)
+- connect to an automatic pump to water system (see micro:bit soil moisture tutorial **to be updated soon** with pump guide)
+- log water level data over time to track the well-being of your hydroponics system (especially as you make changes to the set-up)
+- (if micro:bit V2 is available) use two micro:bits to transmit and display data (one as a sensor and one as a receiver/displayer)
+
+*****
+*see below for a detailed example of this project!*
 
 <!-- the checkboxes are not working right now but I'll try to fix it later
 <div>
@@ -75,19 +116,6 @@ The guide below is simply an example -- please create your device as you wish!
 </table>
 
 </div> -->
-## A few things to think about/sketch out before we get building... :pencil:
-**Apparatus**
-- will your structure be freestanding? attached to the hydroponics container?
-- how will you translate a physical sensor of water level to be detected as changing velocity/position by the micro:bit?
-- what materials do you have available already to build a stable & durable structure and design a water level sensor? what other materials can you easily get?
-- **measuring & marking:**
-	- how tall and wide is your hydroponics system? how do you want your water level sensor positioned relative to the system (i.e. how far should the micro:bit be above to detect significant water level changes?)
-	- how wide do you want your base to be to ensure a space-efficient & stable structure?
-
-**Code :computer:**
-- play around with the accelerometer blocks (including tilt!) and simulator in MakeCode to see how accelerometer readings (based on changing velocity/position) can be translated into a user-friendly output showing 'water level.'
-- consider using variables to save different readings
-- try out the many built in features (LED display, buttons, golden touch sensors) to allow user interaction with the micro:bit to read _multiple_ pieces of information, if desired
 
 ## Example:
 ### Beginning thoughts...
@@ -123,9 +151,7 @@ Example:
 	- point near long end of cardboard to later stick skewer for styrofoam through
 	- length of sides of the styrofoam block (1.5" each side), so the block would be large enough to reliably float at the water's surface over time, but small enough to take up little space in the water of the hydroponics system, and fit through one of the plant-cup holes (not pictured, about the size of the top of the red cup) in the bin lid so the block could rise with the water as needed, and be easily removed for repair & maintenance of the water level sensor
 
-## Let's make it! :triangular_ruler:
-### Measure & Mark :straight_ruler:
-### Let's Build! :screwdriver:
+### Building the apparatus
 1. Cut wooden parts with saw to measured marks (base, two rods). (**make sure to secure wood safely with clamps, and as for help if needed!**)
 2. To drill the holes for the skewer through each rod, one at a time, secure both ends of a rod to a clean & sturdy woodworking surface with clamps, making sure to have either a gap under the area where the hole will be drilled, or a scrapable & thick wooden surface underneath. Using a hole-boring bit, drill the hold in the marked location.
 3. Still using the hole-boring bit, face the designated bottom of the base upwards, and on each of the two marked locations for the rods, drill an indent halfway through the thickness of the base (to prepare the area to drill the screws in)
@@ -137,24 +163,3 @@ Example:
 9. With the pointy end of the second skewer, poke a hole through the designated mark, and push the skewer through until at least 7" of the skewer is below the cardboard. Stick the styrofoam block into the middle of this second skewer.
 
 **Last step before testing!** Download your rough draft code onto the micro:bit, attach the battery pack (not pictured), and securely tape the micro:bit and battery pack onto the cardboard.
-
-### Test and prototype!
-Run the code on your micro:bit to see how your program works along with your physical structure.
-**Do not worry if your plan doesn't function as you expected right away, it is important to embrace the testing & prototyping process.**
-_Right now, see..._
-- how does your device 'react' when you manually change the water level (try pouring in more water to a small cup or bowl)?
-- does the micro:bit display data as you expected?
-- how can you consider the micro:bit's energy use in your program design? consider how often you display data, whether it be automatically or in reaction to user interaction
-_...over time, observe_
-- how does your structure hold up in the environment? does it fit into the workflow of your garden?
-- how reliable is the micro:bit water level display?
-- can you access the data/display easily and quickly? are you provided too little, too much, or just enough data?
-
-#### Nice job! You did it :). As you incorporate a water level sensor into your garden, you will see over time what features work, and what features can be improved to fit in with the garden as it evolves.
-Based on where your interests lie, feel free to let this sensor run on its own and interact how you've designed, observing occasionally for any desired adjustments, or try out some of the extensions on this project below.
-
-
-# Possible Extensions :)u]
-- connect to an automatic pump to water system (see micro:bit soil moisture tutorial **to be updated soon** with pump guide)
-- log water level data over time to track the well-being of your hydroponics system (especially as you make changes to the set-up)
-- (if micro:bit V2 is available) use two micro:bits to transmit and display data (one as a sensor and one as a receiver/displayer)
