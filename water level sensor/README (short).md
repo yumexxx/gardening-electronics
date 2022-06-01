@@ -19,10 +19,19 @@ The guide below is simply an example -- please create your device as you wish!
 ![GIF of water level sensor rising with water](https://github.com/yumexxx/gardening-electronics/blob/main/water%20level%20sensor/water%20level%20rising.GIF.gif)
 
 ### Materials
+ | Electronics :battery: | Tools we used! :toolbox: |
+ | --- | ----------- |
+ | - :slightly_smiling_face: (1) micro:bit (with USB cord) <br> - :electric_plug: (1) AA battery pack with connector <br> - :battery: (2) AA batteries | :computer: MakeCode for micro:bit <br> - :screwdriver: drill (Phillips & woodboring bits for wood screws and holes) <br> - :carpentry_saw: saw <br> - :clamp: clamps <br> - :clamp: clamps <br> - :scissors: box cutter / scissors <br> - :fountain_pen: marker <br> - :straight_ruler: ruler <br> |
 
+ | Craft Materials :art: |
+ | -------------- |
+ | - :wood: a base & frame (i.e. 2 long wooden rods & 1 block) <br> - :chopsticks: (2) wooden skewers/chopsticks <!-- or other thin, sturdy material (? or is this implied and students will adapt intuitively?) --> <br> - :nut_and_bolt: fasteners/connectors (i.e. wood screws to build base/frame) <br> - :white_circle: small block of styrofoam (check out packaging materials for something that floats!) <br> - 📦 scrap cardboard and tape (to hold micro:bit safe from water) |
+
+<!-- the checkboxes are not working right now but I'll try to fix it later
 <div>
 
 <table border="0">
+	
 
  <tr>
     <td><b style="font-size:30px">Electronics :battery:</b></td>
@@ -49,19 +58,13 @@ The guide below is simply an example -- please create your device as you wish!
   <label for="marker"> :fountain_pen: marker</label><br>
   <input type="checkbox" id="ruler" name="ruler" value="ruler">
   <label for="ruler"> :straight_ruler: ruler</label><br>
-  <!-- do I need to include explanations for certain tools? It lengthens the tutorial, and I'm not sure if its net helpful to the students & their creativity... --></td>
+  *** do I need to include explanations for certain tools? It lengthens the tutorial, and I'm not sure if its net helpful to the students & their creativity... </td>
  </tr>
 
 </table>
 
-</div>
+</div> -->
 
-#### Craft Materials :art:
-- [ ] :wood: a base & frame (i.e. 2 long wooden rods & 1 block)
-- [ ] :chopsticks: (2) wooden skewers/chopsticks <!-- or other thin, sturdy material (? or is this implied and students will adapt intuitively?) -->
-- [ ] :nut_and_bolt: fasteners/connectors (i.e. wood screws to build base/frame)
-- [ ] :white_circle: small block of styrofoam (check out packaging materials for something that floats!)
-- [ ] 📦 scrap cardboard and tape (to hold micro:bit safe from water)
 
 
 ## Let's make it! :triangular_ruler:
