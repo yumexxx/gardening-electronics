@@ -64,26 +64,29 @@ The guide below is simply an example -- please create your device as you wish!
 </table>
 
 </div> -->
-
-
-
-## Let's make it! :triangular_ruler:
-### Plan the Design :pencil:
-**Make a rough plan & sketch of your apparatus**
+## A few things to think about/sketch out before we get building... :pencil:
+**Apparatus**
 - will your structure be freestanding? attached to the hydroponics container?
 - how will you translate a physical sensor of water level to be detected as changing velocity/position by the micro:bit?
 - what materials do you have available already to build a stable & durable structure and design a water level sensor? what other materials can you easily get?
+- **measuring & marking:**
+	- how tall and wide is your hydroponics system? how do you want your water level sensor positioned relative to the system (i.e. how far should the micro:bit be above to detect significant water level changes?)
+	- how wide do you want your base to be to ensure a space-efficient & stable structure?
+**Code :computer:**
+- play around with the accelerometer blocks (including tilt!) and simulator in MakeCode to see how accelerometer readings (based on changing velocity/position) can be translated into a user-friendly output showing 'water level.'
+- consider using variables to save different readings
+- try out the many built in features (LED display, buttons, golden touch sensors) to allow user interaction with the micro:bit to read _multiple_ pieces of information, if desired
 
-	Example:
-	- with a small & light container, we chose to make the structure freestanding to ensure stability of the sensor over time without affecting the stability of the hydroponics system
-	- stick a styrofoam block at one end of a skewer to sit in water, and attach the micro:bit at the other end of the skewer on a free-rotating piece of cardboard, so when the styrofoam floats on the surface of the water as its height changes, the micro:bit tilts up or down
-	- materials:
-		- we had a wood scrap bin, so decided to build the frame and base out of wood (using rods, skewers, and blocks)
-		- we chose cardboard to attach the micro:bit to since it is easy to cut & prototype quickly with (and we had plenty lying around)
-		- looking for a durable & buoyant material that would float on the surface of the water as its height changed, we found styrofoam from old packaging to cut into smaller chunks
+## Example:
+### Beginning thoughts...
+- with a small & light container, we chose to make the structure freestanding to ensure stability of the sensor over time without affecting the stability of the hydroponics system
+- stick a styrofoam block at one end of a skewer to sit in water, and attach the micro:bit at the other end of the skewer on a free-rotating piece of cardboard, so when the styrofoam floats on the surface of the water as its height changes, the micro:bit tilts up or down
+- materials:
+	- we had a wood scrap bin, so decided to build the frame and base out of wood (using rods, skewers, and blocks)
+	- we chose cardboard to attach the micro:bit to since it is easy to cut & prototype quickly with (and we had plenty lying around)
+	- looking for a durable & buoyant material that would float on the surface of the water as its height changed, we found styrofoam from old packaging to cut into smaller chunks
 
-### Plan the Code :computer:
-Play around with the accelerometer blocks (including tilt!) and simulator in MakeCode to see how accelerometer readings (based on changing velocity/position) can be translated into a user-friendly output showing 'water level.' Consider using variables to save different readings. Also try out the many built in features (LED display, buttons, golden touch sensors) to allow user interaction with the micro:bit to read _multiple_ pieces of information, if desired.
+### Code
 1. Start by showing the number of different readings on the LED display
 2. Choose a reading that, based on your physical design, shows the changing water level
 3. Determine an appropriate & user friendly scale to output the 'water level' (search for the 'map' function to scale the default readings to a customized scale)
@@ -91,15 +94,11 @@ Play around with the accelerometer blocks (including tilt!) and simulator in Mak
 5. Saving all your work as a .hex file from MakeCode, choose your favorite method of translating water level to display. Finalize a rough draft of the code, so that it works as you expect with the simulator, and is ready to be tested after you make the physical apparatus.
 **It is important to start thinking about how your program will connect the physical and digital worlds to ultimately monitor water level before starting the physical build, in case any adjustments to your physical design are needed based on what you can do with MakeCode**
 
-	Example:
+**Example Code:**
 	![micro:bit water level sensor code](https://github.com/yumexxx/gardening-electronics/blob/main/water%20level%20sensor/microbit%20code%20w%20buttons%20for%20graph%20and%20number.png)
 
-### Measure & Mark :straight_ruler:
-**Plan your dimensions and measure & mark materials**
-- how tall and wide is your hydroponics system? how do you want your water level sensor positioned relative to the system (i.e. how far should the micro:bit be above to detect significant water level changes?)
-- how wide do you want your base to be to ensure a space-efficient & stable structure?
-
-	Example:
+### Apparatus
+Example:
 	- the black bin pictured above is 10 inches wide and 8 inches tall
 		- we wanted the micro:bit 6 inches above the top of the black container when the micro:bit is flat (parallel to the water surface), making the length between the micro:bit and styrofoam about 7 inches, so that the micro:bit and cardboard it's attached to have enough space to rotate down to be completely vertical (if the water level is extremely low)
 	- we made our base 8 inches wide (slightly smaller than the width of the container), which seemed wide enough for stability, but did not take up much extra space outside of the system
@@ -112,8 +111,9 @@ Play around with the accelerometer blocks (including tilt!) and simulator in Mak
 		- point near long end of cardboard to later stick skewer for styrofoam through
 		- length of sides of the styrofoam block (1.5" each side), so the block would be large enough to reliably float at the water's surface over time, but small enough to take up little space in the water of the hydroponics system, and fit through one of the plant-cup holes (not pictured, about the size of the top of the red cup) in the bin lid so the block could rise with the water as needed, and be easily removed for repair & maintenance of the water level sensor
 
+## Let's make it! :triangular_ruler:
+### Measure & Mark :straight_ruler:
 ### Let's Build! :screwdriver:
-_the following steps are specific to the example design, read along for building & safety tips!_
 1. Cut wooden parts with saw to measured marks (base, two rods).
 - **make sure to secure wood safely with clamps, and as for help if needed!**
 2. To drill the holes for the skewer through each rod, one at a time, secure both ends of a rod to a clean & sturdy woodworking surface with clamps, making sure to have either a gap under the area where the hole will be drilled, or a scrapable & thick wooden surface underneath. Using a hole-boring bit, drill the hold in the marked location.
