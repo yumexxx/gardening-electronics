@@ -27,6 +27,13 @@ The guide below is simply an example -- please create your device as you wish!
  | -------------- |
  | - :wood: a base & frame (i.e. 2 long wooden rods & 1 block) <br> - :chopsticks: (2) wooden skewers/chopsticks <!-- or other thin, sturdy material (? or is this implied and students will adapt intuitively?) --> <br> - :nut_and_bolt: fasteners/connectors (i.e. wood screws to build base/frame) <br> - :white_circle: small block of styrofoam (check out packaging materials for something that floats!) <br> - 📦 scrap cardboard and tape (to hold micro:bit safe from water) |
 
+ ## A few things to think about before getting started...
+ - where will this sensor & apparatus fit in with your current physcial set-up?
+ - what materials do you have laying around that you could use to build a stable & durable structure for the sensor?
+ - what measurements & markings can you do before starting to build to make sure the apparatus fits together snugly, and within your available space? 
+ ## Let's make it! :triangular_ruler:
+
+
 <!-- the checkboxes are not working right now but I'll try to fix it later
 <div>
 
@@ -143,7 +150,7 @@ _...over time, observe_
 Based on where your interests lie, feel free to let this sensor run on its own and interact how you've designed, observing occasionally for any desired adjustments, or try out some of the extensions on this project below.
 
 
-# Possible Extensions :)
-- connect this system to an automatic pump to water system (see micro:bit soil moisture tutorial **to be updated soon** with pump guide)
+# Possible Extensions :)u]
+- connect to an automatic pump to water system (see micro:bit soil moisture tutorial **to be updated soon** with pump guide)
 - log water level data over time to track the well-being of your hydroponics system (especially as you make changes to the set-up)
 - (if micro:bit V2 is available) use two micro:bits to transmit and display data (one as a sensor and one as a receiver/displayer)
