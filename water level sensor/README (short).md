@@ -20,7 +20,7 @@ The guide below is simply an example -- please create your device as you wish!
 
 ### Materials
 
-<html>
+<div>
 
 <table border="0">
 
@@ -51,10 +51,10 @@ The guide below is simply an example -- please create your device as you wish!
   <label for="ruler"> :straight_ruler: ruler</label><br>
   <!-- do I need to include explanations for certain tools? It lengthens the tutorial, and I'm not sure if its net helpful to the students & their creativity... --></td>
  </tr>
- 
+
 </table>
 
-</html>
+</div>
 
 #### Craft Materials :art:
 - [ ] :wood: a base & frame (i.e. 2 long wooden rods & 1 block)
