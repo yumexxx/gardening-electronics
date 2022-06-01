@@ -35,7 +35,7 @@ You have **lots of freedom** to construct your apparatus and design your code as
 
 ### Tools :toolbox:
 - [ ] MakeCode for micro:bit (online block/Python coding software)
-- [ ] drill (with Phillips [for screws] and woodboring bits [for holes])
+- [ ] drill (Phillips & woodboring bits for wood screws and holes)
 - [ ] saw
 - [ ] clamps (to secure wood while cutting/drilling)
 - [ ] box cutter / scissors

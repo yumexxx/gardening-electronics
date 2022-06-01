@@ -3,7 +3,10 @@
 	- add pics for better engagement
 	- add code examples
 	- is it ok that this is dually a guide and documentation of example? I think that kids can be creative/have freedom with this project and I don't want to limit them with just our example
+	- add link table at top of tutorial to jump to diff parts of tutorial (like micro:bit site has)
 -->
+
+<!-- reminder: just try it! code is easy to iterate :) -->
 
 *working on updating original page to be shorter, on this page*
 # Water Level Sensor :droplet:
@@ -16,25 +19,32 @@ The guide below is simply an example -- please create your device as you wish!
 ![GIF of water level sensor rising with water](https://github.com/yumexxx/gardening-electronics/blob/main/water%20level%20sensor/water%20level%20rising.GIF.gif)
 
 ### Materials
-#### Electronics :battery:
-- [ ] (1) micro:bit (with USB cord)
-- [ ] (1) AA battery pack with connector
-- [ ] (2) AA batteries
-#### Craft Materials (see sub-bullets for example choices!) :art:
-- [ ] a base & frame (i.e. long wooden rods & block)
-- [ ] (2) wooden skewers
+<table border="0">
+ <tr>
+    <td><b style="font-size:30px">Electronics :battery:</b></td>
+    <td><b style="font-size:30px">Tools we used! :toolbox:</b></td>
+ </tr>
+ <tr>
+    <td>- [ ] (1) micro:bit (with USB cord) <br>
+- [ ] (1) AA battery pack with connector <br>
+- [ ] (2) AA batteries</td>
+    <td>- [ ] MakeCode for micro:bit <br>
+- [ ] drill (Phillips & woodboring bits for wood screws and holes) <br>
+- [ ] saw <br>
+- [ ] clamps <br>
+- [ ] box cutter / scissors <br>
+- [ ] marker <br>
+- [ ] ruler <!-- do I need to include explanations for certain tools? It lengthens the tutorial, and I'm not sure if its net helpful to the students & their creativity... --></td>
+ </tr>
+</table>
+
+#### Craft Materials :art:
+- [ ] a base & frame (i.e. 2 long wooden rods & 1 block)
+- [ ] (2) wooden skewers <!-- or other thin, sturdy material (? or is this implied and students will adapt intuitively?) -->
 - [ ] fasteners/connectors (i.e. wood screws to build base/frame)
 - [ ] small block of styrofoam (check out packaging materials for something that floats!)
 - [ ] scrap cardboard and tape (to hold micro:bit safe from water)
 
-### Tools :toolbox:
-- [ ] MakeCode for micro:bit (online block/Python coding software)
-- [ ] drill (with Phillips [for screws] and woodboring bits [for holes])
-- [ ] saw
-- [ ] clamps (to secure wood while cutting/drilling)
-- [ ] box cutter / scissors
-- [ ] marker (to mark measurements/align parts)
-- [ ] ruler (to fit apparatus to dimensions of hydroponics system)
 
 ## Let's make it! :triangular_ruler:
 ### Plan the Design :pencil:
