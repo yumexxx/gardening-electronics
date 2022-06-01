@@ -25,25 +25,36 @@ The guide below is simply an example -- please create your device as you wish!
     <td><b style="font-size:30px">Tools we used! :toolbox:</b></td>
  </tr>
  <tr>
-    <td>- [ ] (1) micro:bit (with USB cord) <br>
-- [ ] (1) AA battery pack with connector <br>
-- [ ] (2) AA batteries</td>
-    <td>- [ ] MakeCode for micro:bit <br>
-- [ ] drill (Phillips & woodboring bits for wood screws and holes) <br>
-- [ ] saw <br>
-- [ ] clamps <br>
-- [ ] box cutter / scissors <br>
-- [ ] marker <br>
-- [ ] ruler <!-- do I need to include explanations for certain tools? It lengthens the tutorial, and I'm not sure if its net helpful to the students & their creativity... --></td>
+    <td> <input type="checkbox" id="microbit" name="microbit" value="microbit">
+  <label for="microbit"> :slightly_smiling_face: (1) micro:bit (with USB cord)</label><br>
+  <input type="checkbox" id="pack" name="pack" value="pack">
+  <label for="pack"> :electric_plug: (1) AA battery pack with connector</label><br>
+  <input type="checkbox" id="AA" name="AA" value="AA">
+  <label for="AA"> :battery: (2) AA batteries</label><br></td>
+    <td><input type="checkbox" id="makecode" name="makecode" value="makecode">
+  <label for="makecode"> MakeCode for micro:bit</label><br>
+  <input type="checkbox" id="drill" name="drill" value="drill">
+  <label for="drill"> :screwdriver: drill (Phillips & woodboring bits for wood screws and holes)</label><br>
+  <input type="checkbox" id="saw" name="saw" value="saw">
+  <label for="saw"> :carpentry_saw: saw</label><br>
+  <input type="checkbox" id="clamp" name="clamp" value="clamp">
+  <label for="clamp"> :clamp: clamps</label><br>
+  <input type="checkbox" id="cut" name="cut" value="cut">
+  <label for="cut"> :scissors: box cutter / scissors</label><br>
+  <input type="checkbox" id="marker" name="marker" value="marker">
+  <label for="marker"> :fountain_pen: marker</label><br>
+  <input type="checkbox" id="ruler" name="ruler" value="ruler">
+  <label for="ruler"> :straight_ruler: ruler</label><br>
+  <!-- do I need to include explanations for certain tools? It lengthens the tutorial, and I'm not sure if its net helpful to the students & their creativity... --></td>
  </tr>
 </table>
 
 #### Craft Materials :art:
-- [ ] a base & frame (i.e. 2 long wooden rods & 1 block)
-- [ ] (2) wooden skewers <!-- or other thin, sturdy material (? or is this implied and students will adapt intuitively?) -->
-- [ ] fasteners/connectors (i.e. wood screws to build base/frame)
-- [ ] small block of styrofoam (check out packaging materials for something that floats!)
-- [ ] scrap cardboard and tape (to hold micro:bit safe from water)
+- [ ] :wood: a base & frame (i.e. 2 long wooden rods & 1 block)
+- [ ] :chopsticks: (2) wooden skewers/chopsticks <!-- or other thin, sturdy material (? or is this implied and students will adapt intuitively?) -->
+- [ ] :nut_and_bolt: fasteners/connectors (i.e. wood screws to build base/frame)
+- [ ] :white_circle: small block of styrofoam (check out packaging materials for something that floats!)
+- [ ] 📦 scrap cardboard and tape (to hold micro:bit safe from water)
 
 
 ## Let's make it! :triangular_ruler:
