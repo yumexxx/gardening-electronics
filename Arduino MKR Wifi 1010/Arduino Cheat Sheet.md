@@ -1,12 +1,10 @@
-An explanation of [void loops] (https://roboticsbackend.com/arduino-setup-loop-functions-explained/).
+An explanation of [void loops](https://roboticsbackend.com/arduino-setup-loop-functions-explained/).
 
-Another Arduino IoT Cloud [CheatSheet]
-(https://docs.arduino.cc/cloud/iot-cloud/tutorials/technical-reference) 
+Another Arduino IoT Cloud [CheatSheet](https://docs.arduino.cc/cloud/iot-cloud/tutorials/technical-reference) 
 
 ## Useful Arduino Libraries! 
 - Arduino_MKRIoTCarrier.h 
-
-https://www.arduino.cc/reference/en/libraries/arduino_mkriotcarrier/  
+	- https://www.arduino.cc/reference/en/libraries/arduino_mkriotcarrier/  
 
 ## Tabs 
 - ReadMe.adoc: text file containing information about the sketch, the author and the project – can/should edit for others’ reference! 
