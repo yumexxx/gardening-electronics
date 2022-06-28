@@ -20,6 +20,7 @@ This minigame will teach you how to setup communication between the board and th
 
 ### [Urban Farming](https://explore-iot.arduino.cc/iotsk/module/iot-starter-kit/lesson/urban-farming-101)
 This is the final product of what we want to use the Arduinos for in our community garden! We use the sensors and moisture sensor attachment to analyze moisture, humidity, lighting, and temperature conditions of the garden beds.
+
 **NOTES:**
 - We will not be using the artificial light feature that is included within this tutorial. 
 - Do **not** worry about the relay functions in this. We don't have anything to connect to the relays to activate (e.g. a fan or water pump), so we will not be using it. 
