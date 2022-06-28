@@ -12,7 +12,7 @@ Learn how to record temperature and humidity locally by reading the HTS221 senso
 Learn how to use the IoT Dashboard to help visualize data and save data from the Serial Monitor.
 
 ### [The Different Sensors included on the MKR 1010](https://explore-iot.arduino.cc/iotsk/module/iot-starter-kit/lesson/storing-our-data)
-For this one, we only need to focus on the "Accessing all sensors on the MKR IoT Carrier," in order to learn all the features included in the MKR 1010. *The rest of the activity/information is irrelevant for what we will be doing.*
+For this one, we **only** need to focus on the "Accessing all sensors on the MKR IoT Carrier," in order to learn all the features included in the MKR 1010. *The rest of the activity/information is irrelevant for what we will be doing.*
 
 ### [Creating a Minigame](https://explore-iot.arduino.cc/iotsk/module/iot-starter-kit/lesson/cloud-vs-carrier-game)
 This minigame will teach you how to setup communication between the board and the cloud!
@@ -20,5 +20,7 @@ This minigame will teach you how to setup communication between the board and th
 
 ### [Urban Farming](https://explore-iot.arduino.cc/iotsk/module/iot-starter-kit/lesson/urban-farming-101)
 This is the final product of what we want to use the Arduinos for in our community garden! We use the sensors and moisture sensor attachment to analyze moisture, humidity, lighting, and temperature conditions of the garden beds.
-- **NOTE:** We will not be using the artificial light feature that is included within this tutorial. 
+**NOTES:**
+- We will not be using the artificial light feature that is included within this tutorial. 
+- Do **not** worry about the relay functions in this. We don't have anything to connect to the relays to activate (e.g. a fan or water pump), so we will not be using it. 
 - There is [another tutorial](https://opla.arduino.cc/opla/module/iot-starter-kit-maker-long/lesson/smart-garden-long) that is very similar. Feel free to check it out!
