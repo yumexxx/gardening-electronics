@@ -1,6 +1,6 @@
 An explanation of [void loops](https://roboticsbackend.com/arduino-setup-loop-functions-explained/).
 
-Another Arduino IoT Cloud [CheatSheet](https://docs.arduino.cc/cloud/iot-cloud/tutorials/technical-reference) 
+Another Arduino IoT Cloud [Cheat Sheet](https://docs.arduino.cc/cloud/iot-cloud/tutorials/technical-reference) 
 
 ## Useful Arduino Libraries! 
 - Arduino_MKRIoTCarrier.h 
