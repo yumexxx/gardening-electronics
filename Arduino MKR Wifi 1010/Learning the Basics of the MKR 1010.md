@@ -11,6 +11,9 @@ Learn how to record temperature and humidity locally by reading the HTS221 senso
 ### [Familiarizing with the IoT Dashboard and Recording Data](https://explore-iot.arduino.cc/iotsk/module/iot-starter-kit/lesson/get-to-know-the-kit)
 Learn how to use the IoT Dashboard to help visualize data and save data from the Serial Monitor.
 
+### [The Different Sensors included on the MKR 1010](https://explore-iot.arduino.cc/iotsk/module/iot-starter-kit/lesson/storing-our-data)
+For this one, we only need to focus on the "Accessing all sensors on the MKR IoT Carrier," in order to learn all the features included in the MKR 1010. *The rest of the activity/information is irrelevant for what we will be doing.*
+
 ### [Creating a Minigame](https://explore-iot.arduino.cc/iotsk/module/iot-starter-kit/lesson/cloud-vs-carrier-game)
 This minigame will teach you how to setup communication between the board and the cloud!
 - If you would like to learn how to setup communication using another way (and not creating a game) [here is a tutorial](https://opla.arduino.cc/opla/module/iot-starter-kit-maker-long/lesson/thinking-about-you-long) that teaches you how to send messages between the board and the cloud.
