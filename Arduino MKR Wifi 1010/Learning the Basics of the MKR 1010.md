@@ -11,9 +11,11 @@ Learn how to record temperature and humidity locally by reading the HTS221 senso
 ### [Familiarizing with the IoT Dashboard and Recording Data](https://explore-iot.arduino.cc/iotsk/module/iot-starter-kit/lesson/get-to-know-the-kit)
 Learn how to use the IoT Dashboard to help visualize data and save data from the Serial Monitor.
 
-### [Creating a Minigame on the MKR 1010](https://explore-iot.arduino.cc/iotsk/module/iot-starter-kit/lesson/cloud-vs-carrier-game)
+### [Creating a Minigame](https://explore-iot.arduino.cc/iotsk/module/iot-starter-kit/lesson/cloud-vs-carrier-game)
 This minigame will teach you how to setup communication between the board and the cloud!
+- If you would like to learn how to setup communication using another way (and not creating a game) [here is a tutorial](https://opla.arduino.cc/opla/module/iot-starter-kit-maker-long/lesson/thinking-about-you-long) that teaches you how to send messages between the board and the cloud.
 
 ### [Urban Farming](https://explore-iot.arduino.cc/iotsk/module/iot-starter-kit/lesson/urban-farming-101)
 This is the final product of what we want to use the Arduinos for in our community garden! We use the sensors and moisture sensor attachment to analyze moisture, humidity, lighting, and temperature conditions of the garden beds.
 - **NOTE:** We will not be using the artificial light feature that is included within this tutorial. 
+- There is [another tutorial](https://opla.arduino.cc/opla/module/iot-starter-kit-maker-long/lesson/smart-garden-long) that is very similar. Feel free to check it out!
