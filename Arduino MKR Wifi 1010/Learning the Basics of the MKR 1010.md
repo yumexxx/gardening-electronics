@@ -6,12 +6,11 @@ These are the tutorials that we followed in order to learn and get familiar with
 General Info about using the [IoT Cloud](https://docs.arduino.cc/cloud/iot-cloud/tutorials/iot-cloud-getting-started?_gl=1*1dkilw2*_ga*MjA0Nzk2NjY1MC4xNjU0ODY3MDU2*_ga_NEXN8H46L5*MTY1NjQyMjU4My4xMy4xLjE2NTY0Mjc4NTIuNDg.)
 
 
-### Get to Know the Kit
-[Link to Tutorial](https://explore-iot.arduino.cc/iotsk/module/iot-starter-kit/lesson/get-to-know-the-kit)
+# [Get to Know the Kit](https://explore-iot.arduino.cc/iotsk/module/iot-starter-kit/lesson/get-to-know-the-kit)
 Learn how to record temperature and humidity locally by reading the HTS221 sensor that the MKR IoT Carrier comes equipped with!
 
 
-### Familiarizing with the IoT Dashboard and Recording Data
+# Familiarizing with the IoT Dashboard and Recording Data
 [Link to Tutorial](https://explore-iot.arduino.cc/iotsk/module/iot-starter-kit/lesson/get-to-know-the-kit)
 Learn how to use the IoT Dashboard to help visualize data and save data from the Serial Monitor.
 
