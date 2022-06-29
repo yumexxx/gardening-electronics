@@ -3,8 +3,10 @@
 ## What is ESP32?
 
 According to Wikipedia, "ESP32 is a series of low-cost, low-power system on a chip microcontrollers with integrated Wi-Fi and dual-mode Bluetooth."
+It is just like your Micro:bit! You can code it to take data from a sensor, or have it do things. 
 
-In a word, it is just like your Micro:bit! You can code it to take data from a sensor, or have it do things. 
+![ESP32](https://github.com/yumexxx/gardening-electronics/blob/main/ESP32/ESP32board.jpg)
+
 
 It is suitable for gardening IoT because it connects to WiFi, and it can send it's data to the cloud (for example, to Arduino IoT cloud that we are using).
 
