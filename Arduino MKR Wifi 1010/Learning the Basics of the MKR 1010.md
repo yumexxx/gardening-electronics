@@ -6,7 +6,7 @@ These are the tutorials that we followed in order to learn and get familiar with
 General Info about using the [IoT Cloud](https://docs.arduino.cc/cloud/iot-cloud/tutorials/iot-cloud-getting-started?_gl=1*1dkilw2*_ga*MjA0Nzk2NjY1MC4xNjU0ODY3MDU2*_ga_NEXN8H46L5*MTY1NjQyMjU4My4xMy4xLjE2NTY0Mjc4NTIuNDg.)
 
 # What is IoT?
-IoT stands for **Internet of Things**. It referes to a large network of devices that collect and share data globally. For more information, check out this [quick overview](https://explore-iot.arduino.cc/iotsk/module/iot-starter-kit/lesson/internet-of-things)
+IoT stands for **Internet of Things**. It refers to a large network of devices that collect and share data globally. For more information, check out this [quick overview](https://explore-iot.arduino.cc/iotsk/module/iot-starter-kit/lesson/internet-of-things)
 
 # [Get to Know the Kit](https://explore-iot.arduino.cc/iotsk/module/iot-starter-kit/lesson/get-to-know-the-kit)
 Learn how to record temperature and humidity locally by reading the HTS221 sensor that the MKR IoT Carrier comes equipped with!
