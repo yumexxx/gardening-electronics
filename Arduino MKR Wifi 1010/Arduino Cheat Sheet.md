@@ -31,6 +31,7 @@ Another Arduino IoT Cloud [Cheat Sheet](https://docs.arduino.cc/cloud/iot-cloud/
 	- carrier.begin(); 
 - To disconnect cables from relay ports you need to use something to push inside the top square hole 
 - APDS9960 ambient light sensor does not measure UV light, but can measure light intensity 
+- If using an SD card and it isn't detected, you need to disconnect your MKR IoT Carrier, insert the SD card and then reconnect the carrier
 
 
 ## Specifics to Urban Farming Code 
