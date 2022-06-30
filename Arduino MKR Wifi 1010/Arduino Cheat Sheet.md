@@ -26,6 +26,7 @@ Another Arduino IoT Cloud [Cheat Sheet](https://docs.arduino.cc/cloud/iot-cloud/
 
 ## Other Notes 
 - Make sure Arduino Create Agent is always open 
+- Although it is possible to upload programs to the Arduino over the air, it is much more reliable to upload them by directly connecting it to your computer.
 - If we are using the enclosure/casing, we must include code to calibrate the Arduino to take this into account 
 	- CARRIER_CASE = true; //true bc using the enclosure 
 	- carrier.begin(); 
