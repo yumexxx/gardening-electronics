@@ -1,1 +1,1 @@
-Tutorials for using the IoT Prime Bundle. 
+[Overview of the IoT Prime Bundle kit](https://docs.arduino.cc/retired/getting-started-guides/IoT%20Prime%20-%20Experiment%2001)
