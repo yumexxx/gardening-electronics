@@ -20,6 +20,7 @@ This tutorial goes over how to save the data recorded on the sensors onto a micr
 # [Creating a Minigame](https://explore-iot.arduino.cc/iotsk/module/iot-starter-kit/lesson/cloud-vs-carrier-game)
 This minigame will teach you how to setup communication between the board and the cloud!
 - If you would like to learn how to setup communication using another way (and not creating a game) [here is a tutorial](https://opla.arduino.cc/opla/module/iot-starter-kit-maker-long/lesson/thinking-about-you-long) that teaches you how to send messages between the board and the cloud.
+- This tutorial isn't really necessary for what we will be doing, but it's a cool feature to learn!
 
 
 # [Urban Farming](https://explore-iot.arduino.cc/iotsk/module/iot-starter-kit/lesson/urban-farming-101)
