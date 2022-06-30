@@ -18,10 +18,11 @@ Another Arduino IoT Cloud [Cheat Sheet](https://docs.arduino.cc/cloud/iot-cloud/
 	-LibraryFile.h: when the angle brackets syntax is used, the libraries paths will be searched for the file. 
 	-LocalFile.h: When the double quotes syntax is used, the folder of the file using the #include directive will be searched for the specified file, then the libraries paths if it was not found in the local path. Use this syntax for header files in the sketch’s folder. 
 - pinMode(pin, mode) - configure a specific pin to behave either as an input or an output 
-	- pin − the number of the pin whose mode you wish to set 	
+	- pin − the number of the pin whose mode you wish to set 
 	- mode − INPUT, OUTPUT, or INPUT_PULLUP 
 - Serial.begin(speed) - Sets the data rate in bits per second (baud) for serial data transmission 
 	- Have been using a speed of 9600 
+- delay("x" milliseconds) - makes the program pause for "x" milliseconds
 
 ## Other Notes 
 - Make sure Arduino Create Agent is always open 
